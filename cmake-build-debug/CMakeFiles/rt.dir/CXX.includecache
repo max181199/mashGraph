@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/max/work/Graph/task1_src/Bitmap.h
+
+/Users/max/work/Graph/task1_src/main.cpp
+iostream
+-
+cstdint
+-
+string
+-
+vector
+-
+unordered_map
+-
+iomanip
+-
+Bitmap.h
+/Users/max/work/Graph/task1_src/Bitmap.h
+
